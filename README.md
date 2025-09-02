@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @atharva-malik<br>👀 I’m interested in cybersecurity, physics, engineering (specifically aeronautical), and maths<br>🌱 I’m currently learning more about lower level languages like C++ and ASM<br>📫 You can reach me at atharva.malik@gmail.com
+👋 Hi, I’m @atharva-malik<br>👀 I’m interested in cybersecurity, physics, engineering (specifically aeronautical), and maths<br>🌱 I’m currently learning more about lower level languages like C and ASM<br>📫 You can reach me at atharva.malik@gmail.com
 
 
 ## 🌐 Socials:
